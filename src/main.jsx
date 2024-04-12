@@ -14,7 +14,6 @@ function syncProductList() {
 }
 
 
-
 syncProductList()
 
 

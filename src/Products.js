@@ -9,7 +9,7 @@ export const Products =
             id: 1,
             title: "Мечта безработного",
             price: 999999,
-            discount: 0.1,
+            discount: 0.358,
             imageUrl: img01,
         },
         {
@@ -24,7 +24,6 @@ export const Products =
             id: 3,
             title: "Для новых ощущений",
             price: 10,
-            discount: 0.99,
             imageUrl: img03,
         }
 
