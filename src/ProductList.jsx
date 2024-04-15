@@ -6,7 +6,7 @@ export const ProductList = () => {
     return (
         <ul className="card-list">
             {Products.map((item) => (
-                <li className="term-list-item" key={item.id}>
+                <li className="card-list__item" key={item.id}>
                     <ProductCard
                         {...item}
                     />
